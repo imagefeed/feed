@@ -953,8 +953,8 @@ Version: 1.26-20251123-git40+09612b50+09612b5f47-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e5cc225e55963298de48bf50bef890aa
-SHA256sum: 819b77256987a27b9fb4b49ed36fd74941efd2d79876f69c6f382e46fa32e71b
+MD5Sum: e7992b4cf06f2ca367d0dbaf7fd5a4a6
+SHA256sum: c60c1566030c1e458cc1b8eaacccf7819a1e657580b2974b669b3b0f7b97d63b
 Size: 624
 Filename: enigma2-plugin-extensions-estalker-dbg_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
@@ -970,8 +970,8 @@ Recommends: enigma2-plugin-extensions-estalker (= 1.26-20251123-git40+09612b50+0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: bc3b797823bb53a150e3a42c39adfdb2
-SHA256sum: 27207ff213a8190cd4841e86373d1b357c83ebb26f74db845ed9079a2377d6d1
+MD5Sum: 286c73896d853481fe2f6cb1b2b03a5c
+SHA256sum: f6966f29b287ca7bfd57d9e92ca957fdd8bfea02f761d41202ed795d93d197b2
 Size: 722
 Filename: enigma2-plugin-extensions-estalker-dev_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
@@ -986,9 +986,9 @@ Version: 1.26-20251123-git40+09612b50+09612b5f47-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 00a46f81e7baea803eb866f8c6ee3afd
-SHA256sum: 57673eee907c962e15fb4ae447d77fa626f5a781ee04a5aa40b3790268f9eb62
-Size: 87126
+MD5Sum: 22a16e267ffe7f09038226be22801e33
+SHA256sum: 85725b01d8218530b201fe3a50cf2906b79971cd3ab7a23ac274a0484fbed1ab
+Size: 87130
 Filename: enigma2-plugin-extensions-estalker-src_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
 Description: IPTV Ministra stalker player by KiddaC - Source files
@@ -1003,9 +1003,9 @@ Depends: enigma2-plugin-systemplugins-serviceapp, gstplayer, python3-multiproces
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 95b19f7164184124e9de2a5540666ccc
-SHA256sum: f69ce94c3bb7a8b582b58de50eef831413560d1fd449627b2ab9f07e51a1c370
-Size: 2701160
+MD5Sum: 2f82765cd3155ac9fe2f175fa4dc24f3
+SHA256sum: 210249846b3b49951a3b59bc7229fc0ae24d9eb06e232b5751302b32d29bc85b
+Size: 2701052
 Filename: enigma2-plugin-extensions-estalker_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
 Description: IPTV Ministra stalker player by KiddaC
@@ -1630,14 +1630,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-m3uconverter-dbg
-Version: 3.1+git112+2d1c3280+2d1c3282c3-r0
+Version: 3.2+git112+2d1c3280+2d1c3282c3-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: f83821b93f27f685ac0e9f58d66a9296
-SHA256sum: 9516cba2629402f091309a4788435338524b4d5866d91f58ff409ffbdd562d9a
+MD5Sum: 982dd4b37a46ab869af6743f076a8c6e
+SHA256sum: f74b15b7ad1cd0cd38089baa827706c12113e3fa484c13855da519c76f3cd265
 Size: 650
-Filename: enigma2-plugin-extensions-m3uconverter-dbg_3.1+git112+2d1c3280+2d1c3282c3-r0_all.ipk
+Filename: enigma2-plugin-extensions-m3uconverter-dbg_3.2+git112+2d1c3280+2d1c3282c3-r0_all.ipk
 Source: enigma2-plugin-extensions-m3uconverter.bb
 Description: M3U Playlist Converter - Debugging files
 OE: enigma2-plugin-extensions-m3uconverter
@@ -1646,15 +1646,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-m3uconverter-dev
-Version: 3.1+git112+2d1c3280+2d1c3282c3-r0
-Recommends: enigma2-plugin-extensions-m3uconverter (= 3.1+git112+2d1c3280+2d1c3282c3-r0)
+Version: 3.2+git112+2d1c3280+2d1c3282c3-r0
+Recommends: enigma2-plugin-extensions-m3uconverter (= 3.2+git112+2d1c3280+2d1c3282c3-r0)
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 4e0e774bb0336ab901565a215c5d3e6e
-SHA256sum: 5e14bbd5b7a6f2c95692a9f82f3133d390f86df4e3e126b0ba3359a1938049c2
+MD5Sum: cf1248dde2ea6b9f2928d4b41fe085db
+SHA256sum: ef3d0c8b6959b30a8c0ea848a21520da153408de4c589da0134e86b87b3c4ad6
 Size: 686
-Filename: enigma2-plugin-extensions-m3uconverter-dev_3.1+git112+2d1c3280+2d1c3282c3-r0_all.ipk
+Filename: enigma2-plugin-extensions-m3uconverter-dev_3.2+git112+2d1c3280+2d1c3282c3-r0_all.ipk
 Source: enigma2-plugin-extensions-m3uconverter.bb
 Description: M3U Playlist Converter - Development files
 OE: enigma2-plugin-extensions-m3uconverter
@@ -1663,14 +1663,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-m3uconverter
-Version: 3.1+git112+2d1c3280+2d1c3282c3-r0
+Version: 3.2+git112+2d1c3280+2d1c3282c3-r0
 Section: base
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 3d5b1995c0af3a0cf1254e0e5eee96e1
-SHA256sum: 170bd3b57f60e2fc19d2d3861ffed29d22a77ad4b30c148b08fd3dbce162bdaf
+MD5Sum: 24c38db494768422f4b9b8e3b00602d6
+SHA256sum: 9ff45be125ed872f710ec62a579a1530feab05ecf168a5646272ea98695e84f8
 Size: 176500
-Filename: enigma2-plugin-extensions-m3uconverter_3.1+git112+2d1c3280+2d1c3282c3-r0_all.ipk
+Filename: enigma2-plugin-extensions-m3uconverter_3.2+git112+2d1c3280+2d1c3282c3-r0_all.ipk
 Source: enigma2-plugin-extensions-m3uconverter.bb
 Description: M3U Playlist Converter
 OE: enigma2-plugin-extensions-m3uconverter
@@ -1778,12 +1778,12 @@ Version: 1.1+git92+c358bea0+c358bea36d-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 51bc33f2d30449928a7ffdd4dbc7f663
-SHA256sum: 8f2d877b77a1901cacccf79e172eb936b99b6ac475503d843176a205268ad007
-Size: 614
+MD5Sum: ef9b9f677dfcaaa1953a89585ca48fe8
+SHA256sum: 9e9109764099fa1b7344514bb7859c75c7c03c767bf418fc35cdd5043ccf5913
+Size: 640
 Filename: enigma2-plugin-extensions-plutotv-dbg_1.1+git92+c358bea0+c358bea36d-r0_all.ipk
 Source: enigma2-plugin-extensions-plutotv.bb
-Description: enigma2-plugin-extensions-plutotv version 1.1+git-r0 - Debugging files
+Description: Watch Free Movies, TV Shows & Live TV Online - Debugging files
 OE: enigma2-plugin-extensions-plutotv
 License: GPL-2.0-only
 Priority: optional
@@ -1794,12 +1794,12 @@ Recommends: enigma2-plugin-extensions-plutotv (= 1.1+git92+c358bea0+c358bea36d-r
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c0408b2f8b1b5d2fec31414061d01c36
-SHA256sum: fe7bd3903d8c5ba11e379a6d978eceb708a5cd985184a7aa94bd37e46d3343a3
-Size: 668
+MD5Sum: b28550b78925b2a8ee07e8c0a4a07d22
+SHA256sum: 9618be2fc710e2eb9b650d99ccdb28b7d59e6d35de7468b3a1842fd424d9a3f1
+Size: 692
 Filename: enigma2-plugin-extensions-plutotv-dev_1.1+git92+c358bea0+c358bea36d-r0_all.ipk
 Source: enigma2-plugin-extensions-plutotv.bb
-Description: enigma2-plugin-extensions-plutotv version 1.1+git-r0 - Development files
+Description: Watch Free Movies, TV Shows & Live TV Online - Development files
 OE: enigma2-plugin-extensions-plutotv
 License: GPL-2.0-only
 Priority: optional
@@ -1811,12 +1811,12 @@ Replaces: enigma2-plugin-extensions-pluto
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c2c163672a2da1d550d3640e876dd28d
-SHA256sum: 97cb2fa2c4e9495ad9cb3e81d7a408d4a3546ec6740a0a2cb36ffb486e96370f
-Size: 173678
+MD5Sum: 023192e80696eacf39b1242af9e036fb
+SHA256sum: 1768c3e24281d7c84e0fd88330c3b9aca1b485da6bbd0a71dc289b18707be1e6
+Size: 173702
 Filename: enigma2-plugin-extensions-plutotv_1.1+git92+c358bea0+c358bea36d-r0_all.ipk
 Source: enigma2-plugin-extensions-plutotv.bb
-Description: enigma2-plugin-extensions-plutotv version 1.1+git-r0
+Description: Watch Free Movies, TV Shows & Live TV Online
 OE: enigma2-plugin-extensions-plutotv
 License: GPL-2.0-only
 Priority: optional
