@@ -287,9 +287,9 @@ Version: develop-r0
 Section: base
 Architecture: dm920
 Maintainer: OpenPLi team
-MD5Sum: 9a95d3c377b3456716a2bd0b67b9db8c
-SHA256sum: 3fc7928db69bcb11235b75b0b7400c694e4311b0627d04a03b53e103d95f9781
-Size: 1264
+MD5Sum: 879e6dff33f83c27802084e31e3fb465
+SHA256sum: 6c964e6f51c387ed7cbeb478d0c9b1ffbdfa39b3d6bffb138cc9408a0e999b1f
+Size: 1270
 Filename: enigma-info_develop-r0_dm920.ipk
 Source: enigma-info.bb
 Description: enigma.info used by BoxInfo
@@ -22432,15 +22432,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: kodi-addon-pvr-iptvsimple-dbg
-Version: 22.6.1+git0+72b6abc97c-r0
+Version: 22.6.1+git0+05f29a166b-r0
 Recommends: glibc-dbg, libgcc-dbg, liblzma-dbg, libstdc++-dbg, pugixml-dbg, zlib-dbg
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e7f44c283380ec03c60a56176e70abfd
-SHA256sum: ba63fed3e249b272952277ca30a9e8458221c43adad092504705d712dca17f38
-Size: 5671920
-Filename: kodi-addon-pvr-iptvsimple-dbg_22.6.1+git0+72b6abc97c-r0_dm920.ipk
+MD5Sum: 7977c4d4faff2b83f32f586aaebe40f3
+SHA256sum: 838ca1a585605389062abe017f724f09f0981ba8389319033b60002a7c8f111d
+Size: 5671926
+Filename: kodi-addon-pvr-iptvsimple-dbg_22.6.1+git0+05f29a166b-r0_dm920.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins - Debugging files
 OE: kodi-addon-pvr-iptvsimple
@@ -22448,15 +22448,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: kodi-addon-pvr-iptvsimple-dev
-Version: 22.6.1+git0+72b6abc97c-r0
-Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-iptvsimple (= 22.6.1+git0+72b6abc97c-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, liblzma-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev, pugixml-dev, zlib-dev
+Version: 22.6.1+git0+05f29a166b-r0
+Recommends: boost-dev, glibc-dev, jsoncpp-dev, jsonrpc-dev, kodi-addon-pvr-iptvsimple (= 22.6.1+git0+05f29a166b-r0), kodi-platform-dev, libgcc-dev, libkodiplatform-dev, liblzma-dev, libstdc++-dev, libtinyxml2-dev, p8platform-dev, pugixml-dev, zlib-dev
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a71f2850415dce7095a16dbc9897d8ba
-SHA256sum: 988683bb0a35eacd2bb8995b41192530f25f9443e9168af3b3cf71980be97930
-Size: 726
-Filename: kodi-addon-pvr-iptvsimple-dev_22.6.1+git0+72b6abc97c-r0_dm920.ipk
+MD5Sum: 4631a821d19a42a0d6779f2ec0c4030f
+SHA256sum: b06d7f2f7d8e5d0760c507f101f908a0daf6ebf13020dbe3449077edefb4c4b5
+Size: 728
+Filename: kodi-addon-pvr-iptvsimple-dev_22.6.1+git0+05f29a166b-r0_dm920.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins - Development files
 OE: kodi-addon-pvr-iptvsimple
@@ -22464,15 +22464,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: kodi-addon-pvr-iptvsimple
-Version: 22.6.1+git0+72b6abc97c-r0
+Version: 22.6.1+git0+05f29a166b-r0
 Depends: libc6 (>= 2.42+git0+e34453cd6a), libgcc1 (>= 15.2.0), libkodiplatform, liblzma5 (>= 5.8.1), libpugixml1 (>= 1.15), libstdc++6 (>= 15.2.0), libz1 (>= 1.3.1)
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e0b5d589bcf9efc963adcb076fec962c
-SHA256sum: 93078efbdab2f94a3bbc6249b9c8eb4fe0ef4716bf5fed3accc69f1aa380cc5e
-Size: 20075920
-Filename: kodi-addon-pvr-iptvsimple_22.6.1+git0+72b6abc97c-r0_dm920.ipk
+MD5Sum: 823c6bf546aa24a1bf1a78d34acc351e
+SHA256sum: 5ec75c60b033452072cac9419d29843f13607510077b2efa8431d1d5a4139f2a
+Size: 20074638
+Filename: kodi-addon-pvr-iptvsimple_22.6.1+git0+05f29a166b-r0_dm920.ipk
 Source: kodi-addon-pvr-iptvsimple.bb
 Description: Kodi Media Center PVR plugins
 OE: kodi-addon-pvr-iptvsimple
