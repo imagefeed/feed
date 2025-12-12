@@ -377,7 +377,7 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-ipaudio
-Version: 8.0
+Version: 8.0.2
 Description: IPAudio - Multi-format audio streaming plugin with custom playlists
  IPAudio is a powerful audio streaming plugin for Enigma2 with support for:
  - Multiple audio format streaming (GStreamer, FFmpeg)
@@ -399,10 +399,10 @@ Homepage: https://github.com/popking159/ipaudio
 Depends: python3-core, python3-twisted-web, python3-json, gstreamer1.0, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, ffmpeg
 Recommends: python3-requests, python3-six
 Source: enigma2-plugin-extensions-ipaudio.bb
-Filename: enigma2-plugin-extensions-ipaudio_8.0_all.ipk
-Size: 32652
-MD5Sum: cde2bbc5cc8baea1fcd56353f12294ef
-SHA256sum: a45f1c5e6f2e79d869b2259f1151464c7e2ad176938674f388560599803f57f8
+Filename: enigma2-plugin-extensions-ipaudio_8.02_all.ipk
+Size: 37810
+MD5Sum: 0cb1ff143082b5a8ddbfb7839d913d60
+SHA256sum: e386da0f15a33034fa36516b982659eeff93e617553dacd495e94db9a9d45f47
 
 Package: enigma2-plugin-extensions-ipaudiopro
 Version: 1.5
