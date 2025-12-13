@@ -2145,14 +2145,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-tvgarden-dbg
-Version: 1.3+git66+8e2a85f0+8e2a85ffd1-r0
+Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: fbb8aac83ce440664eca3a8a816cdd08
-SHA256sum: 12ffb567e55fbd9bea824276e706858dbc453e17f65a2b899de80fb102541faf
+MD5Sum: 3326e71616fd5f07f37c10f916e0b448
+SHA256sum: 3165d25376b094f6d289d92cd67da8ad628d0f2511788bf68c963f6902a0a612
 Size: 662
-Filename: enigma2-plugin-extensions-tvgarden-dbg_1.3+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-dbg_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Debugging files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2161,15 +2161,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden-dev
-Version: 1.3+git66+8e2a85f0+8e2a85ffd1-r0
-Recommends: enigma2-plugin-extensions-tvgarden (= 1.3+git66+8e2a85f0+8e2a85ffd1-r0)
+Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
+Recommends: enigma2-plugin-extensions-tvgarden (= 1.4+git66+8e2a85f0+8e2a85ffd1-r0)
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: d581fc7b774d75374aa41a8d49e98bcd
-SHA256sum: 6c568b0206eb0935bd97c075231eb332db30a882192463f94e6116ef4d8118df
+MD5Sum: ba067b93732baf65872cc526fc86c4cc
+SHA256sum: d7ad4b86802c363c9e882486c126534abca8051524e966a8ae5c971f5499785d
 Size: 700
-Filename: enigma2-plugin-extensions-tvgarden-dev_1.3+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-dev_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Development files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2178,14 +2178,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden-src
-Version: 1.3+git66+8e2a85f0+8e2a85ffd1-r0
+Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: a2515ddad51af48b72395d2135f172a1
-SHA256sum: 6296fa2ec09a136cc14616faabdbb4652c4bb023adce09f4a975ac628ac8f0bc
+MD5Sum: 1905f0bc6166bef487b0b47af725c2ac
+SHA256sum: cdd721f86ab9222be93af156d4e84c65c442c3c9a98df87e5a254f34ae74c78a
 Size: 57740
-Filename: enigma2-plugin-extensions-tvgarden-src_1.3+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-src_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Source files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2194,14 +2194,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden
-Version: 1.3+git66+8e2a85f0+8e2a85ffd1-r0
+Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
 Section: base
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 5249a42f7891e8ca3225a977a54503b2
-SHA256sum: 77f9140159f3c24a0f520c2fad590fa97930558bc934d3618d6f6051bf5eb08e
+MD5Sum: 214aeed958cd028e104dac59ba57107e
+SHA256sum: cb5b796aef7952e5fbfe2b27b00b3f342a338aa87fe1d880b076ffd2199a648b
 Size: 1220062
-Filename: enigma2-plugin-extensions-tvgarden_1.3+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2
 OE: enigma2-plugin-extensions-tvgarden
