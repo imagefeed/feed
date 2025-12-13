@@ -1518,14 +1518,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-levi45-addon-manager-dbg
-Version: 1.0+git85+0d7e8150+0d7e815021-r0
+Version: 1.0+git86+f0667300+f06673054e-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: e6596b4a08b58d8425140c33d1673dd3
-SHA256sum: 61590fe9641477f5430df80c3604435f7fdfb7867c8c55b170548cf69216c425
-Size: 618
-Filename: enigma2-plugin-extensions-levi45-addon-manager-dbg_1.0+git85+0d7e8150+0d7e815021-r0_all.ipk
+MD5Sum: 7c8a4536a9404d3d020eab29e2dc2e8b
+SHA256sum: 210a4e0ee3c73aa09cb6c2e369f8e1fb1c24175406af7bd38c8c3ef1d7f215ef
+Size: 620
+Filename: enigma2-plugin-extensions-levi45-addon-manager-dbg_1.0+git86+f0667300+f06673054e-r0_all.ipk
 Source: enigma2-plugin-extensions-levi45-addon-manager.bb
 Description: levi45 Addons Panel - Debugging files
 OE: enigma2-plugin-extensions-levi45-addon-manager
@@ -1534,15 +1534,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-levi45-addon-manager-dev
-Version: 1.0+git85+0d7e8150+0d7e815021-r0
-Recommends: enigma2-plugin-extensions-levi45-addon-manager (= 1.0+git85+0d7e8150+0d7e815021-r0), python3-requests-dev
+Version: 1.0+git86+f0667300+f06673054e-r0
+Recommends: enigma2-plugin-extensions-levi45-addon-manager (= 1.0+git86+f0667300+f06673054e-r0), python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: dc914a954adf1aa0e296840e87283382
-SHA256sum: f7096cedf297b9062b832de7896f4c8db162d76e2e93f566e99df4de0b097f06
-Size: 670
-Filename: enigma2-plugin-extensions-levi45-addon-manager-dev_1.0+git85+0d7e8150+0d7e815021-r0_all.ipk
+MD5Sum: 9d54036917777bf00e39d7a0784b76a9
+SHA256sum: 638db924d67a86ee142dfa3d64d5a78ce22ad380ce0c3c9a712071bd38a59c6e
+Size: 672
+Filename: enigma2-plugin-extensions-levi45-addon-manager-dev_1.0+git86+f0667300+f06673054e-r0_all.ipk
 Source: enigma2-plugin-extensions-levi45-addon-manager.bb
 Description: levi45 Addons Panel - Development files
 OE: enigma2-plugin-extensions-levi45-addon-manager
@@ -1551,14 +1551,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-levi45-addon-manager-src
-Version: 1.0+git85+0d7e8150+0d7e815021-r0
+Version: 1.0+git86+f0667300+f06673054e-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: dd40e732e38ff29e1ae8b7bdde4f6573
-SHA256sum: 850a72c60166f631f695d4f68f2a0f56626d7ed2af1ca176b6f4c34fb3a9f3d3
-Size: 25992
-Filename: enigma2-plugin-extensions-levi45-addon-manager-src_1.0+git85+0d7e8150+0d7e815021-r0_all.ipk
+MD5Sum: 526eb02995b6823db9f48851755504a3
+SHA256sum: 9100cc527a1018fa0b2e5b7f861a96d8cb1a0c3e880e9b7add9d506bfb59eaab
+Size: 25994
+Filename: enigma2-plugin-extensions-levi45-addon-manager-src_1.0+git86+f0667300+f06673054e-r0_all.ipk
 Source: enigma2-plugin-extensions-levi45-addon-manager.bb
 Description: levi45 Addons Panel - Source files
 OE: enigma2-plugin-extensions-levi45-addon-manager
@@ -1567,15 +1567,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-levi45-addon-manager
-Version: 1.0+git85+0d7e8150+0d7e815021-r0
+Version: 1.0+git86+f0667300+f06673054e-r0
 Depends: python3-requests
 Section: multimedia
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 51fcbd2851deb1cb72795f1dd9c993f5
-SHA256sum: 52e963c85bed7084fb4635610244e84a1ffbe4695f5da37d8d4049be3e75fd0d
-Size: 154310
-Filename: enigma2-plugin-extensions-levi45-addon-manager_1.0+git85+0d7e8150+0d7e815021-r0_all.ipk
+MD5Sum: 7056bc95ec204f282c9681980f62bd32
+SHA256sum: d66b5407bf217dbf22c58b4c4876e880472050cd79780853772f561681cd6f41
+Size: 162742
+Filename: enigma2-plugin-extensions-levi45-addon-manager_1.0+git86+f0667300+f06673054e-r0_all.ipk
 Source: enigma2-plugin-extensions-levi45-addon-manager.bb
 Description: levi45 Addons Panel
 OE: enigma2-plugin-extensions-levi45-addon-manager
@@ -2145,14 +2145,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-tvgarden-dbg
-Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
+Version: 1.5+git68+0cf08f80+0cf08f8955-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 3326e71616fd5f07f37c10f916e0b448
-SHA256sum: 3165d25376b094f6d289d92cd67da8ad628d0f2511788bf68c963f6902a0a612
+MD5Sum: 0d5fda9c26d916b91836149f52259ca8
+SHA256sum: cb0bdc8b3ffc2c3618402dee4f29f9da2d88798fd23f135219425261a8a9008d
 Size: 662
-Filename: enigma2-plugin-extensions-tvgarden-dbg_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-dbg_1.5+git68+0cf08f80+0cf08f8955-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Debugging files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2161,15 +2161,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden-dev
-Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
-Recommends: enigma2-plugin-extensions-tvgarden (= 1.4+git66+8e2a85f0+8e2a85ffd1-r0)
+Version: 1.5+git68+0cf08f80+0cf08f8955-r0
+Recommends: enigma2-plugin-extensions-tvgarden (= 1.5+git68+0cf08f80+0cf08f8955-r0)
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: ba067b93732baf65872cc526fc86c4cc
-SHA256sum: d7ad4b86802c363c9e882486c126534abca8051524e966a8ae5c971f5499785d
+MD5Sum: a72c60d1d4f18fcfd34b9f3094646c90
+SHA256sum: ec14651958ecab8461a643df42dad0d3bca4efd3e0a2a0cf56a402eb5bc2257f
 Size: 700
-Filename: enigma2-plugin-extensions-tvgarden-dev_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-dev_1.5+git68+0cf08f80+0cf08f8955-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Development files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2178,14 +2178,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden-src
-Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
+Version: 1.5+git68+0cf08f80+0cf08f8955-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 1905f0bc6166bef487b0b47af725c2ac
-SHA256sum: cdd721f86ab9222be93af156d4e84c65c442c3c9a98df87e5a254f34ae74c78a
-Size: 57740
-Filename: enigma2-plugin-extensions-tvgarden-src_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+MD5Sum: 1f11b2e780f587b2f3b4cccf0fe6c4a1
+SHA256sum: d29cbfcec9a12a8ea395df46daf6551536db729639272808d9e019e4b17e248e
+Size: 60378
+Filename: enigma2-plugin-extensions-tvgarden-src_1.5+git68+0cf08f80+0cf08f8955-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Source files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2194,14 +2194,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden
-Version: 1.4+git66+8e2a85f0+8e2a85ffd1-r0
+Version: 1.5+git68+0cf08f80+0cf08f8955-r0
 Section: base
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 214aeed958cd028e104dac59ba57107e
-SHA256sum: cb5b796aef7952e5fbfe2b27b00b3f342a338aa87fe1d880b076ffd2199a648b
-Size: 1220062
-Filename: enigma2-plugin-extensions-tvgarden_1.4+git66+8e2a85f0+8e2a85ffd1-r0_all.ipk
+MD5Sum: e3a9c2de7d17d979512841e2d550323c
+SHA256sum: 8236eb017c8c3be3b4fba1b9abc3d1b294fe873cb36e527cdc0b57da00266e23
+Size: 1226738
+Filename: enigma2-plugin-extensions-tvgarden_1.5+git68+0cf08f80+0cf08f8955-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2
 OE: enigma2-plugin-extensions-tvgarden
