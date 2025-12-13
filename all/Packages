@@ -953,8 +953,8 @@ Version: 1.26-20251123-git40+09612b50+09612b5f47-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e5cc225e55963298de48bf50bef890aa
-SHA256sum: 819b77256987a27b9fb4b49ed36fd74941efd2d79876f69c6f382e46fa32e71b
+MD5Sum: e7992b4cf06f2ca367d0dbaf7fd5a4a6
+SHA256sum: c60c1566030c1e458cc1b8eaacccf7819a1e657580b2974b669b3b0f7b97d63b
 Size: 624
 Filename: enigma2-plugin-extensions-estalker-dbg_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
@@ -970,8 +970,8 @@ Recommends: enigma2-plugin-extensions-estalker (= 1.26-20251123-git40+09612b50+0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: bc3b797823bb53a150e3a42c39adfdb2
-SHA256sum: 27207ff213a8190cd4841e86373d1b357c83ebb26f74db845ed9079a2377d6d1
+MD5Sum: 286c73896d853481fe2f6cb1b2b03a5c
+SHA256sum: f6966f29b287ca7bfd57d9e92ca957fdd8bfea02f761d41202ed795d93d197b2
 Size: 722
 Filename: enigma2-plugin-extensions-estalker-dev_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
@@ -986,9 +986,9 @@ Version: 1.26-20251123-git40+09612b50+09612b5f47-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 00a46f81e7baea803eb866f8c6ee3afd
-SHA256sum: 57673eee907c962e15fb4ae447d77fa626f5a781ee04a5aa40b3790268f9eb62
-Size: 87126
+MD5Sum: 22a16e267ffe7f09038226be22801e33
+SHA256sum: 85725b01d8218530b201fe3a50cf2906b79971cd3ab7a23ac274a0484fbed1ab
+Size: 87130
 Filename: enigma2-plugin-extensions-estalker-src_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
 Description: IPTV Ministra stalker player by KiddaC - Source files
@@ -1003,9 +1003,9 @@ Depends: enigma2-plugin-systemplugins-serviceapp, gstplayer, python3-multiproces
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 95b19f7164184124e9de2a5540666ccc
-SHA256sum: f69ce94c3bb7a8b582b58de50eef831413560d1fd449627b2ab9f07e51a1c370
-Size: 2701160
+MD5Sum: 2f82765cd3155ac9fe2f175fa4dc24f3
+SHA256sum: 210249846b3b49951a3b59bc7229fc0ae24d9eb06e232b5751302b32d29bc85b
+Size: 2701052
 Filename: enigma2-plugin-extensions-estalker_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
 Description: IPTV Ministra stalker player by KiddaC
