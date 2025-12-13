@@ -1015,14 +1015,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat-dbg
-Version: 5.3+git228+c2fcff00+c2fcff0645-r0
+Version: 5.4+git229+b95d0dd0+b95d0ddd6f-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b6e13199389d4ffc6266d6be923a813d
-SHA256sum: 71aeae9acd7f60996d0b3dd2eff4ed5d1d5342f95b875e34170f1ce96aa9d0cd
+MD5Sum: bf48ab3f4abf390138d2c5d8541494ff
+SHA256sum: fabb751b0a71dae2a28ad445d0af939d9c1cfe9cc657af7c1ab5c01ec4494317
 Size: 640
-Filename: enigma2-plugin-extensions-footonsat-dbg_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
+Filename: enigma2-plugin-extensions-footonsat-dbg_5.4+git229+b95d0dd0+b95d0ddd6f-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed - Debugging files
 OE: enigma2-plugin-extensions-footonsat
@@ -1030,15 +1030,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat-dev
-Version: 5.3+git228+c2fcff00+c2fcff0645-r0
-Recommends: alsa-utils-aplay-dev, enigma2-plugin-extensions-footonsat (= 5.3+git228+c2fcff00+c2fcff0645-r0), python3-beautifulsoup4-dev, python3-difflib-dev, python3-pillow-dev, python3-requests-dev, python3-six-dev, python3-sqlite3-dev, python3-threading-dev
+Version: 5.4+git229+b95d0dd0+b95d0ddd6f-r0
+Recommends: alsa-utils-aplay-dev, enigma2-plugin-extensions-footonsat (= 5.4+git229+b95d0dd0+b95d0ddd6f-r0), python3-beautifulsoup4-dev, python3-difflib-dev, python3-pillow-dev, python3-requests-dev, python3-six-dev, python3-sqlite3-dev, python3-threading-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c47265a7a9ad191661c426723f420eac
-SHA256sum: a851098cafe9f18d46bda4f09fe13744e1746503834a10a74f7f2fe888f9b6b8
+MD5Sum: 5dc797cb5e4c100ea4bf47de7454b994
+SHA256sum: c2202c607d65f266e98aa5bbb5b11b456a6d118107ff2d09a184d461c2523486
 Size: 750
-Filename: enigma2-plugin-extensions-footonsat-dev_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
+Filename: enigma2-plugin-extensions-footonsat-dev_5.4+git229+b95d0dd0+b95d0ddd6f-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed - Development files
 OE: enigma2-plugin-extensions-footonsat
@@ -1046,14 +1046,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat-src
-Version: 5.3+git228+c2fcff00+c2fcff0645-r0
+Version: 5.4+git229+b95d0dd0+b95d0ddd6f-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6ed4249a304982d89431e2dc294a3342
-SHA256sum: 622ea5e5fdf11150c1213a2d3e94b0ae1c4028bc72b61bc4b971fa86362a15e0
-Size: 71376
-Filename: enigma2-plugin-extensions-footonsat-src_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
+MD5Sum: b482a8de0a00222f75c672a934b8851c
+SHA256sum: 416d623c66ab57887b501c52a374d90c2cead894e7cccbe52d8af0f40a774f37
+Size: 71404
+Filename: enigma2-plugin-extensions-footonsat-src_5.4+git229+b95d0dd0+b95d0ddd6f-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed - Source files
 OE: enigma2-plugin-extensions-footonsat
@@ -1061,15 +1061,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat
-Version: 5.3+git228+c2fcff00+c2fcff0645-r0
+Version: 5.4+git229+b95d0dd0+b95d0ddd6f-r0
 Depends: alsa-utils-aplay, python3-beautifulsoup4, python3-difflib, python3-pillow, python3-requests, python3-six, python3-sqlite3, python3-threading
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: fff272a11a6698bb73164b5d085499eb
-SHA256sum: 9878a43ebdc59a366df35893decf01e313ad0ed2fe55cf0d67d1b8861273786f
-Size: 39738288
-Filename: enigma2-plugin-extensions-footonsat_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
+MD5Sum: 0aafae585912efea84ba9d462ce55b36
+SHA256sum: 3565b3e82dac8e510fdf7f4ddddcc9a46c5f0007a2e0276b5f3a2308da8eb493
+Size: 39739002
+Filename: enigma2-plugin-extensions-footonsat_5.4+git229+b95d0dd0+b95d0ddd6f-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed
 OE: enigma2-plugin-extensions-footonsat
