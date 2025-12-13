@@ -819,6 +819,21 @@ Filename: enigma2-plugin-extensions-tetris_7.6.0+gitr7807+045af020+045af0203e-r8
 Size: 136640
 MD5Sum: 190686ccae10ddcb68852fe7d7455050
 
+Package: enigma2-plugin-extensions-transmission
+Version: 5.3.1
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: ostende
+Description: Transmission torrent client plugin
+Depends: python3-beautifulsoup4, python3-difflib, python3-imaging, python3-pillow, python3-transmission-rpc, transmission, transmission-client
+Source: enigma2-plugin-extensions-transmission.bb
+Filename: enigma2-plugin-extensions-transmission_5.3.1_all.ipk
+OE: enigma2-plugin-extensions
+Size: 7920286
+MD5Sum: 9161a65396873d4cb6e79598fe110630
+SHA256sum: f0da68024b2a7d23d3df7b2f8e2d0261fe0d8012333ffe2b5408de5eeac05534
+
 Package: enigma2-plugin-extensions-turkvod
 Version: 16.00
 Section: extra
