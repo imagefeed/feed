@@ -953,8 +953,8 @@ Version: 1.26-20251123-git40+09612b50+09612b5f47-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: e7992b4cf06f2ca367d0dbaf7fd5a4a6
-SHA256sum: c60c1566030c1e458cc1b8eaacccf7819a1e657580b2974b669b3b0f7b97d63b
+MD5Sum: e5cc225e55963298de48bf50bef890aa
+SHA256sum: 819b77256987a27b9fb4b49ed36fd74941efd2d79876f69c6f382e46fa32e71b
 Size: 624
 Filename: enigma2-plugin-extensions-estalker-dbg_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
@@ -970,8 +970,8 @@ Recommends: enigma2-plugin-extensions-estalker (= 1.26-20251123-git40+09612b50+0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 286c73896d853481fe2f6cb1b2b03a5c
-SHA256sum: f6966f29b287ca7bfd57d9e92ca957fdd8bfea02f761d41202ed795d93d197b2
+MD5Sum: bc3b797823bb53a150e3a42c39adfdb2
+SHA256sum: 27207ff213a8190cd4841e86373d1b357c83ebb26f74db845ed9079a2377d6d1
 Size: 722
 Filename: enigma2-plugin-extensions-estalker-dev_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
@@ -986,9 +986,9 @@ Version: 1.26-20251123-git40+09612b50+09612b5f47-r0
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 22a16e267ffe7f09038226be22801e33
-SHA256sum: 85725b01d8218530b201fe3a50cf2906b79971cd3ab7a23ac274a0484fbed1ab
-Size: 87130
+MD5Sum: 00a46f81e7baea803eb866f8c6ee3afd
+SHA256sum: 57673eee907c962e15fb4ae447d77fa626f5a781ee04a5aa40b3790268f9eb62
+Size: 87126
 Filename: enigma2-plugin-extensions-estalker-src_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
 Description: IPTV Ministra stalker player by KiddaC - Source files
@@ -1003,9 +1003,9 @@ Depends: enigma2-plugin-systemplugins-serviceapp, gstplayer, python3-multiproces
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 2f82765cd3155ac9fe2f175fa4dc24f3
-SHA256sum: 210249846b3b49951a3b59bc7229fc0ae24d9eb06e232b5751302b32d29bc85b
-Size: 2701052
+MD5Sum: 95b19f7164184124e9de2a5540666ccc
+SHA256sum: f69ce94c3bb7a8b582b58de50eef831413560d1fd449627b2ab9f07e51a1c370
+Size: 2701160
 Filename: enigma2-plugin-extensions-estalker_1.26-20251123-git40+09612b50+09612b5f47-r0_all.ipk
 Source: enigma2-plugin-extensions-estalker.bb
 Description: IPTV Ministra stalker player by KiddaC
@@ -1015,14 +1015,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat-dbg
-Version: 5.1+git225+20053100+20053106ee-r0
+Version: 5.3+git228+c2fcff00+c2fcff0645-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: abe78ec234d38178ac8584c33a24cbe2
-SHA256sum: 1dfb17ba6c20d944b51f3bad26068494a035030d09fdee324cbd9d0ee8e4f708
-Size: 642
-Filename: enigma2-plugin-extensions-footonsat-dbg_5.1+git225+20053100+20053106ee-r0_all.ipk
+MD5Sum: b6e13199389d4ffc6266d6be923a813d
+SHA256sum: 71aeae9acd7f60996d0b3dd2eff4ed5d1d5342f95b875e34170f1ce96aa9d0cd
+Size: 640
+Filename: enigma2-plugin-extensions-footonsat-dbg_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed - Debugging files
 OE: enigma2-plugin-extensions-footonsat
@@ -1030,15 +1030,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat-dev
-Version: 5.1+git225+20053100+20053106ee-r0
-Recommends: alsa-utils-aplay-dev, enigma2-plugin-extensions-footonsat (= 5.1+git225+20053100+20053106ee-r0), python3-beautifulsoup4-dev, python3-difflib-dev, python3-pillow-dev, python3-requests-dev, python3-six-dev, python3-sqlite3-dev, python3-threading-dev
+Version: 5.3+git228+c2fcff00+c2fcff0645-r0
+Recommends: alsa-utils-aplay-dev, enigma2-plugin-extensions-footonsat (= 5.3+git228+c2fcff00+c2fcff0645-r0), python3-beautifulsoup4-dev, python3-difflib-dev, python3-pillow-dev, python3-requests-dev, python3-six-dev, python3-sqlite3-dev, python3-threading-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 778d9610466641ae3262127b4726e072
-SHA256sum: b3dc4226d0a9e8af28841d5e3383ef2ce1390a628ee2d4f2d2a94bf513c1ee5d
+MD5Sum: c47265a7a9ad191661c426723f420eac
+SHA256sum: a851098cafe9f18d46bda4f09fe13744e1746503834a10a74f7f2fe888f9b6b8
 Size: 750
-Filename: enigma2-plugin-extensions-footonsat-dev_5.1+git225+20053100+20053106ee-r0_all.ipk
+Filename: enigma2-plugin-extensions-footonsat-dev_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed - Development files
 OE: enigma2-plugin-extensions-footonsat
@@ -1046,14 +1046,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat-src
-Version: 5.1+git225+20053100+20053106ee-r0
+Version: 5.3+git228+c2fcff00+c2fcff0645-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a79fc5eb6eacd9b08787a965361e6854
-SHA256sum: c6f922a344663a5d608fab83a214a125c09c6ce9b819dae3c9caa612a8711b78
-Size: 71132
-Filename: enigma2-plugin-extensions-footonsat-src_5.1+git225+20053100+20053106ee-r0_all.ipk
+MD5Sum: 6ed4249a304982d89431e2dc294a3342
+SHA256sum: 622ea5e5fdf11150c1213a2d3e94b0ae1c4028bc72b61bc4b971fa86362a15e0
+Size: 71376
+Filename: enigma2-plugin-extensions-footonsat-src_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed - Source files
 OE: enigma2-plugin-extensions-footonsat
@@ -1061,15 +1061,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-footonsat
-Version: 5.1+git225+20053100+20053106ee-r0
+Version: 5.3+git228+c2fcff00+c2fcff0645-r0
 Depends: alsa-utils-aplay, python3-beautifulsoup4, python3-difflib, python3-pillow, python3-requests, python3-six, python3-sqlite3, python3-threading
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1831157e89bacd6b1efb0a991b34cbec
-SHA256sum: c6a1bcb3595b50921c38a82074c419151a777c114bd7757ee772e5f348a2cfc3
-Size: 39738056
-Filename: enigma2-plugin-extensions-footonsat_5.1+git225+20053100+20053106ee-r0_all.ipk
+MD5Sum: fff272a11a6698bb73164b5d085499eb
+SHA256sum: 9878a43ebdc59a366df35893decf01e313ad0ed2fe55cf0d67d1b8861273786f
+Size: 39738288
+Filename: enigma2-plugin-extensions-footonsat_5.3+git228+c2fcff00+c2fcff0645-r0_all.ipk
 Source: enigma2-plugin-extensions-footonsat.bb
 Description: FootOnsat Plugin Raed
 OE: enigma2-plugin-extensions-footonsat
@@ -1226,14 +1226,14 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-hasbahca-dbg
-Version: 1.9.0+git159+92cfeeb0+92cfeeb05d-r0
+Version: 2.0+git162+52be0390+52be0394ff-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: b807f9de29db89d264e527558f587c60
-SHA256sum: 24a0dbdcad2a49bfa38ed32b4c1d4ed7d22ea0d76b58420c4c45ee2760861cd7
+MD5Sum: 0a0473cf3ffe609a8f72db4614b2df7d
+SHA256sum: 3e44aa3b55694ecc839adf9aa4ce91880447d11aff58fb29af213e328cda2dc5
 Size: 646
-Filename: enigma2-plugin-extensions-hasbahca-dbg_1.9.0+git159+92cfeeb0+92cfeeb05d-r0_all.ipk
+Filename: enigma2-plugin-extensions-hasbahca-dbg_2.0+git162+52be0390+52be0394ff-r0_all.ipk
 Source: enigma2-plugin-extensions-hasbahca.bb
 Description: HasBahCa free link stream (no pay) - Debugging files
 OE: enigma2-plugin-extensions-hasbahca
@@ -1242,15 +1242,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-hasbahca-dev
-Version: 1.9.0+git159+92cfeeb0+92cfeeb05d-r0
-Recommends: enigma2-plugin-extensions-hasbahca (= 1.9.0+git159+92cfeeb0+92cfeeb05d-r0), python3-requests-dev
+Version: 2.0+git162+52be0390+52be0394ff-r0
+Recommends: enigma2-plugin-extensions-hasbahca (= 2.0+git162+52be0390+52be0394ff-r0), python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: ccd79ece7b458719506e7d3cc0c1cde5
-SHA256sum: e35c47716ca4340fe6a764b507c17ee5caed87fed0d38db1968751210a54d1e6
+MD5Sum: 428844c76e6c530209a52ff8c2bc488d
+SHA256sum: 3f1b3b2fd9d7f7bf659c3079bbe8df6c70895a4add6ec70a317d98e1fba35b49
 Size: 694
-Filename: enigma2-plugin-extensions-hasbahca-dev_1.9.0+git159+92cfeeb0+92cfeeb05d-r0_all.ipk
+Filename: enigma2-plugin-extensions-hasbahca-dev_2.0+git162+52be0390+52be0394ff-r0_all.ipk
 Source: enigma2-plugin-extensions-hasbahca.bb
 Description: HasBahCa free link stream (no pay) - Development files
 OE: enigma2-plugin-extensions-hasbahca
@@ -1259,14 +1259,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-hasbahca-src
-Version: 1.9.0+git159+92cfeeb0+92cfeeb05d-r0
+Version: 2.0+git162+52be0390+52be0394ff-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 50b8fe380a6abb618829646a83201cca
-SHA256sum: 33e6f1a8b8ba330e387c2efcef59c98bebda4d95a4e779ae97b51a87409ae1a3
-Size: 30500
-Filename: enigma2-plugin-extensions-hasbahca-src_1.9.0+git159+92cfeeb0+92cfeeb05d-r0_all.ipk
+MD5Sum: a3fe4181a192ac31b6ede208124b27bc
+SHA256sum: acb8b6e27d7c0f345c3ae6bb437bb18818a195aedf249c8cb5b032c394c9208e
+Size: 32928
+Filename: enigma2-plugin-extensions-hasbahca-src_2.0+git162+52be0390+52be0394ff-r0_all.ipk
 Source: enigma2-plugin-extensions-hasbahca.bb
 Description: HasBahCa free link stream (no pay) - Source files
 OE: enigma2-plugin-extensions-hasbahca
@@ -1275,15 +1275,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-hasbahca
-Version: 1.9.0+git159+92cfeeb0+92cfeeb05d-r0
+Version: 2.0+git162+52be0390+52be0394ff-r0
 Depends: python3-requests
 Section: multimedia
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 258a1a9499ec21d2a2e7100def3a490a
-SHA256sum: 02cb6a7f443ec876242c8fe2fc297166e67ce867f5eab0e80916dce2e394b102
-Size: 10279984
-Filename: enigma2-plugin-extensions-hasbahca_1.9.0+git159+92cfeeb0+92cfeeb05d-r0_all.ipk
+MD5Sum: f7a96f7af671b67204b5a9eed2976a0f
+SHA256sum: c23876aa1b63312794481b1a2b9256a45a7263ebfaf36806e1a8028e74f15538
+Size: 10286880
+Filename: enigma2-plugin-extensions-hasbahca_2.0+git162+52be0390+52be0394ff-r0_all.ipk
 Source: enigma2-plugin-extensions-hasbahca.bb
 Description: HasBahCa free link stream (no pay)
 OE: enigma2-plugin-extensions-hasbahca
@@ -2145,14 +2145,14 @@ License: GPL-2.0-only
 Priority: optional
 
 Package: enigma2-plugin-extensions-tvgarden-dbg
-Version: 1.1+git42+0c332eb0+0c332eb5d1-r0
+Version: 1.3+git65+07b2b260+07b2b26dfe-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 5d474b6d1d3d9ed848bb54562ab9ce23
-SHA256sum: 6af99be60b3dcb46a1251e145f4dbe792a6e39da5648d1846145863de48b89ef
+MD5Sum: 4dbf2483cbb321e253303d24f68a689a
+SHA256sum: dc4e55ec77d190f6b0c5a760763b5d85ba9dd79f62616f50d3194b653384bf6a
 Size: 660
-Filename: enigma2-plugin-extensions-tvgarden-dbg_1.1+git42+0c332eb0+0c332eb5d1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-dbg_1.3+git65+07b2b260+07b2b26dfe-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Debugging files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2161,15 +2161,15 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden-dev
-Version: 1.1+git42+0c332eb0+0c332eb5d1-r0
-Recommends: enigma2-plugin-extensions-tvgarden (= 1.1+git42+0c332eb0+0c332eb5d1-r0)
+Version: 1.3+git65+07b2b260+07b2b26dfe-r0
+Recommends: enigma2-plugin-extensions-tvgarden (= 1.3+git65+07b2b260+07b2b26dfe-r0)
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: a5ea3ced65dd28e1ebcf33f06b442f10
-SHA256sum: b772fae93cb9256a12239cbdcd398fabebee73f92664b107e5ac99986a43392e
+MD5Sum: c9a505708e0ef0f57998aaab8610834d
+SHA256sum: 8e7a9e545410280293fe0fd93a463a9401ebc7149dc30e62c702baa6a9397366
 Size: 698
-Filename: enigma2-plugin-extensions-tvgarden-dev_1.1+git42+0c332eb0+0c332eb5d1-r0_all.ipk
+Filename: enigma2-plugin-extensions-tvgarden-dev_1.3+git65+07b2b260+07b2b26dfe-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Development files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2178,14 +2178,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden-src
-Version: 1.1+git42+0c332eb0+0c332eb5d1-r0
+Version: 1.3+git65+07b2b260+07b2b26dfe-r0
 Section: devel
 Architecture: all
 Maintainer: Lululla
-MD5Sum: a271257e505df26425e9c23009c012d4
-SHA256sum: dc51be5ac5f4d1f8fdf5cf9fa2e49110268a0cc48c1550a79485577e49b1d65b
-Size: 42864
-Filename: enigma2-plugin-extensions-tvgarden-src_1.1+git42+0c332eb0+0c332eb5d1-r0_all.ipk
+MD5Sum: 1096a8fb31510629d1b4bff1d606335c
+SHA256sum: d44525d3f806f5b92d5f309042bdc5b4472cf21f115acbbdf98a7a72556d0ad3
+Size: 53884
+Filename: enigma2-plugin-extensions-tvgarden-src_1.3+git65+07b2b260+07b2b26dfe-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2 - Source files
 OE: enigma2-plugin-extensions-tvgarden
@@ -2194,14 +2194,14 @@ License: GPL-2.0-or-later
 Priority: required
 
 Package: enigma2-plugin-extensions-tvgarden
-Version: 1.1+git42+0c332eb0+0c332eb5d1-r0
+Version: 1.3+git65+07b2b260+07b2b26dfe-r0
 Section: base
 Architecture: all
 Maintainer: Lululla
-MD5Sum: 9376a168486d87d342ac9dfe45fd7a52
-SHA256sum: 548e6790d8b234e8eaf7d7928f6637c93b3e2fd602cfcfad521968510f8beae6
-Size: 1158968
-Filename: enigma2-plugin-extensions-tvgarden_1.1+git42+0c332eb0+0c332eb5d1-r0_all.ipk
+MD5Sum: b466754b0788fcf8ebcfc8e7d58bc5de
+SHA256sum: 092bb363e763e83be189845f6c4127995e0b051bdc96f729973b5a2b94c9c50f
+Size: 1212026
+Filename: enigma2-plugin-extensions-tvgarden_1.3+git65+07b2b260+07b2b26dfe-r0_all.ipk
 Source: enigma2-plugin-extensions-tvgarden.bb
 Description: TV Garden - IPTV Streaming Solution for Enigma2
 OE: enigma2-plugin-extensions-tvgarden
@@ -10242,14 +10242,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 2+git1244+3ff7bde0+3ff7bde1f6-3
+Version: 2+git1246+c96f4320+c96f4326f7-3
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: a44b7c04206698ad06376350a390d2d8
-SHA256sum: f661a3990dafb964b6008605eaa5538370d681897071f856634e97fbf2b4eed4
-Size: 566
-Filename: tuxbox-common-dbg_2+git1244+3ff7bde0+3ff7bde1f6-3_all.ipk
+MD5Sum: b56be0627dc656bef579a701c53e306e
+SHA256sum: 3a77bec260687436cdc7c4aae4207c7b772cf26d6d1dd68f763cca914604d819
+Size: 568
+Filename: tuxbox-common-dbg_2+git1246+c96f4320+c96f4326f7-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3 - Debugging files
 OE: tuxbox-common
@@ -10257,15 +10257,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 2+git1244+3ff7bde0+3ff7bde1f6-3
-Recommends: tuxbox-common (>= 2+git1244+3ff7bde0+3ff7bde1f6-3), tuxbox-common (<< 2+git1244+3ff7bde0+3ff7bde1f6-3.0), xz-dev
+Version: 2+git1246+c96f4320+c96f4326f7-3
+Recommends: tuxbox-common (>= 2+git1246+c96f4320+c96f4326f7-3), tuxbox-common (<< 2+git1246+c96f4320+c96f4326f7-3.0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: fc9974096253f4fe268e5ff0be42af27
-SHA256sum: 1b8e2c8a45defafc97134b72b02debb2bfdf96d655ebb5eee61a66d8d0991e6d
+MD5Sum: 27b7470a22a59381451989e3888140b7
+SHA256sum: cb9ddc7c1a0d37d70d984f7d7416578f351776febca38be63be18b680d2757b6
 Size: 620
-Filename: tuxbox-common-dev_2+git1244+3ff7bde0+3ff7bde1f6-3_all.ipk
+Filename: tuxbox-common-dev_2+git1246+c96f4320+c96f4326f7-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3 - Development files
 OE: tuxbox-common
@@ -10273,15 +10273,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common
-Version: 2+git1244+3ff7bde0+3ff7bde1f6-3
+Version: 2+git1246+c96f4320+c96f4326f7-3
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 95fba7b28bb1056e47489f6451e97f01
-SHA256sum: f47ffc3d59e6131707dd709cf5a578e5b827461f000ff400cb03e51218d9f123
-Size: 71142
-Filename: tuxbox-common_2+git1244+3ff7bde0+3ff7bde1f6-3_all.ipk
+MD5Sum: 70d78350ad782732ab98aa26d0b7c6f7
+SHA256sum: 69f352cc912f694deb0421cc8012e23f4e31c9aa40c918e5c438e5a871947fcc
+Size: 71172
+Filename: tuxbox-common_2+git1246+c96f4320+c96f4326f7-3_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 2+git-3
 OE: tuxbox-common
