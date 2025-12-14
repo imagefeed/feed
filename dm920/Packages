@@ -287,9 +287,9 @@ Version: develop-r0
 Section: base
 Architecture: dm920
 Maintainer: OpenPLi team
-MD5Sum: b0c8915615794f7b4d3b96af0dde6e6f
-SHA256sum: 2749cd64f1a8037a06da3f3e49ddac66c1c25babb650051dc6cd121bf91ff895
-Size: 1264
+MD5Sum: 21044a156a6490a0e085af32ccd7a414
+SHA256sum: 91f9fd7aa734de09a8e9d63be67fc50d0c010884049dd15d6c4449912b5a507b
+Size: 1266
 Filename: enigma-info_develop-r0_dm920.ipk
 Source: enigma-info.bb
 Description: enigma.info used by BoxInfo
